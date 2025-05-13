@@ -1,0 +1,12 @@
+[submodule "subprojects/subprojects/raylib"]
+	path = subprojects/subprojects/raylib
+	url = https://github.com/raysan5/raylib
+[submodule "subprojects/vrm"]
+	path = subprojects/vrm
+	url = https://github.com/infosia/VRM.h
+[submodule "subprojects/stb"]
+	path = subprojects/stb
+	url = https://github.com/nothings/stb
+[submodule "subprojects/raylib"]
+	path = subprojects/raylib
+	url = https://github.com/raysan5/raylib
